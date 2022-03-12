@@ -1,1 +1,1 @@
-error logs pushed ack to remote repo
+error logs pushed back to remote repo
